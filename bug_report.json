@@ -1,0 +1,12 @@
+{
+  "name": "name_bug",
+  "precondition": "precondition",
+  "environment": "environment",
+  "steps": [
+        "First step",
+        "Second step"
+      ],
+  "actual_result": "actual_result",
+  "expected_result": "expected_result",
+  "attach":"attach"
+ }
